@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amitesh-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Amitesh-app/static/js/main.31f3dcac.js",
+    "static/js/453.ffc69977.chunk.js": "/Amitesh-app/static/js/453.ffc69977.chunk.js",
+    "index.html": "/Amitesh-app/index.html",
+    "main.e6c13ad2.css.map": "/Amitesh-app/static/css/main.e6c13ad2.css.map",
+    "main.31f3dcac.js.map": "/Amitesh-app/static/js/main.31f3dcac.js.map",
+    "453.ffc69977.chunk.js.map": "/Amitesh-app/static/js/453.ffc69977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31f3dcac.js"
+  ]
+}
